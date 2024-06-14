@@ -97,13 +97,14 @@ public/
 
 ## Screenshots
 
-<!-- Add your screenshots here -->
-1. **Home Page**:
+1. **Authentication Page**:
+   ![Login Page](<Screenshot 2024-06-14 at 13.27.18.png>)
+2. **Home Page**:
    ![Home](<Screenshot 2024-06-14 at 13.28.13.png>)
-2. **Video Detail Page**:
+3. **Video Detail Page**:
    ![Video Detail Page](<Screenshot 2024-06-14 at 13.28.32.png>)
    ![Comment section](<Screenshot 2024-06-14 at 13.28.39.png>)
-3. **Add Video Page**:
+4. **Add Video Page**:
 ![Add video form](<Screenshot 2024-06-14 at 13.28.13-1.png>)
 ## Testing the Application
 
