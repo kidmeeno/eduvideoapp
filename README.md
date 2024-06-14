@@ -8,7 +8,6 @@ EduVideo is a modern educational video web application inspired by YouTube's des
 - **Video Detail Page**: Dedicated page for each video, featuring a video player, description, and comments section.
 - **User Authentication**: Simple login and logout functionality.
 - **Video Management**: Users can add new videos with title, description, and URL.
-- **Search Functionality**: Users can search videos by title.
 - **Full-Featured Video Player**: Includes full-screen playback, volume control, and playback speed adjustment.
 - **Comment Section**: Users can add and view comments on videos.
 
