@@ -1,0 +1,42 @@
+.video-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .loader-text{
+    color: white;
+    text-align: center;
+  }
+  
+  .video-card {
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .thumbnail {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .video-info {
+    padding: 1rem;
+  }
+  
+  .video-icons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0.5rem;
+  }
+  
+  @media (max-width: 600px) {
+    .video-card {
+      width: 100%;
+    }
+  }
+  

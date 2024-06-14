@@ -1,0 +1,67 @@
+.video-player-container {
+  padding: 1rem;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  color: white;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.controls button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #65B8FF;
+  color: #000000;
+}
+
+.controls button:hover {
+  background-color: #515561;
+}
+
+.controls label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.comment-section {
+  margin-top: 1rem;
+  text-align: left;
+  color: white;
+}
+
+.comment {
+  background: #2E2E2E;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+input[type="text"] {
+  padding: 0.5rem;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
+  margin-bottom: 0.5rem;
+  margin-left: 0;
+  background-color: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  color: white;
+}
+
+.video-description h2 {
+  font-size: 2rem;
+  line-height: 2.8rem;
+  font-weight: 700;
+}
