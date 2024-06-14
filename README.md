@@ -16,7 +16,6 @@ EduVideo is a modern educational video web application inspired by YouTube's des
 - **Browse Videos**: View a list of available videos with thumbnails and titles.
 - **Watch Videos**: Click on a video card to open the video detail page and watch the video.
 - **Add Videos**: Add new video entries with title, description, and URL.
-- **Search Videos**: Search videos by title.
 - **Comment on Videos**: Add comments to videos and view comments from other users.
 - **User Authentication**: Login and logout functionality to access the platform.
 
@@ -114,7 +113,6 @@ To test the application, follow these steps:
 2. **Browse Videos**: On the home page, browse through the available videos.
 3. **Watch a Video**: Click on a video thumbnail to navigate to the video detail page and watch the video.
 4. **Add a Video**: Use the 'Add Video' form to add a new video entry. Fill in the title, description, and URL.
-5. **Search for Videos**: Use the search input to filter videos by title.
 6. **Comment on Videos**: Add comments to a video on the video detail page and view comments from other users.
 
 This README provides an overview, setup instructions, and testing guidelines for your educational video web app. Feel free to customize it further based on your specific needs and environment.
